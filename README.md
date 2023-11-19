@@ -3,4 +3,6 @@ A 'Tiny toolset' useful for small projects.
 
 
 ### index
-- [project](file.py)
+- [DisplayUtils](DisplayUtils)
+- [EtherUtils](EtherUtils)
+- [GPIOUtils](GPIOUtils)
